@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Suraj Singh Rawat</h1>
 <h3 align="center">A passionate developer from India pursuing MCA(CSF) from UPES, Dehradun.</h3>
-<img align="right" alt="Coding" width="400" src= "https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" >
+<img align="right" alt="Coding" width="400" src= "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajsinghrawat1999&label=Profile%20views&color=0e75b6&style=flat" alt="surajsinghrawat1999" /> </p>
 
