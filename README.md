@@ -1,8 +1,8 @@
-[![MasterHead](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)](https://Surajsinghrawatt1999.io)
+[![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG8wejk1Z25qZHBqZWpiYmZweW95eGV0c2RldDZzYzNpcGJ5NzV3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wjS1OfrvYkyzi4YaRt/giphy-downsized-large.gif)](https://Surajsinghrawatt1999.io)
 
 <h1 align="center">Hi 👋, I'm Suraj Singh Rawat</h1>
-<h3 align="center">Solution Architect from India with MCA(CSF) from UPES, Dehradun.</h3>
-<img align="right" alt="Coding" width="400" src= "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" >
+<h3 align="center">Associate Network Engineer from India with Masters in Cyber Security And Forensics from UPES, Dehradun.</h3>
+<img align="right" alt="Coding" width="400" src= "https://tenor.com/view/software-engineer-develop-study-programming-coding-gif-16132870" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajsinghrawat1999&label=Profile%20views&color=0e75b6&style=flat" alt="surajsinghrawat1999" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1fhbG2YFHlencFpPISlWTuhzeFEjKnV1w/view?usp=drivesdk](https://drive.google.com/file/d/1fhbG2YFHlencFpPISlWTuhzeFEjKnV1w/view?usp=drivesdk)
 
-- ⚡ Fun fact **I think i am funny and can learn any technology very easily and fast.**
+- ⚡ Fun fact **Uttarakhand is a paradise for adventure enthusiasts. It offers a wide range of adventure sports such as trekking, white-water rafting, skiing, paragliding, and rock climbing, attracting adventurers from all over the world.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
