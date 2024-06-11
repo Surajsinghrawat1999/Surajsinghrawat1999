@@ -1,8 +1,8 @@
-[![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG8wejk1Z25qZHBqZWpiYmZweW95eGV0c2RldDZzYzNpcGJ5NzV3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wjS1OfrvYkyzi4YaRt/giphy-downsized-large.gif)](https://Surajsinghrawatt1999.io)
+[![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2JzbXNwdzkwNzNhNTI1bG4xcnd3bDBhemw1aXJ5MW9kc3k1dW9uaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zyFcsWHX2fdpyb5SBi/giphy.gif)](https://Surajsinghrawatt1999.io)
 
 <h1 align="center">Hi 👋, I'm Suraj Singh Rawat</h1>
 <h3 align="center">Associate Network Engineer from India with Masters in Cyber Security And Forensics from UPES, Dehradun.</h3>
-<img align="right" alt="Coding" width="400" src= "https://tenor.com/view/software-engineer-develop-study-programming-coding-gif-16132870" >
+<img align="right" alt="Coding" width="400" src= "https://tenor.com/view/ok-hand-pepe-ok-frog-pepe-the-frog-gif-22458426" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajsinghrawat1999&label=Profile%20views&color=0e75b6&style=flat" alt="surajsinghrawat1999" /> </p>
 
